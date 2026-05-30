@@ -1,0 +1,21 @@
+{
+  "id": 4,
+  "projectName": "程序设计",
+  "implementation": "该项目是一个面向课程设计的基础 C++ 实践项目，重点训练文件读写、结构化数据管理、STL 容器使用、菜单交互设计以及简单的数据统计分析能力。通过完成该系统，我进一步熟悉了 C++ 程序从需求分析、功能拆分、代码实现到调试完善的完整过程。",
+  "implementationFormat": "markdown",
+  "readmeFormat": "markdown",
+  "docsFormat": "markdown",
+  "createdAt": "2026-05-30T14:17:29.962Z",
+  "updatedAt": "2026-05-30T14:17:29.962Z",
+  "latestVersionId": 1,
+  "attachments": [],
+  "versions": [
+    {
+      "id": 1,
+      "savedAt": "2026-05-30T14:17:29.962Z",
+      "projectName": "程序设计",
+      "implementation": "该项目是一个面向课程设计的基础 C++ 实践项目，重点训练文件读写、结构化数据管理、STL 容器使用、菜单交互设计以及简单的数据统计分析能力。通过完成该系统，我进一步熟悉了 C++ 程序从需求分析、功能拆分、代码实现到调试完善的完整过程。",
+      "file": "v1.ts"
+    }
+  ]
+}
